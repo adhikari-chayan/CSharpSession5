@@ -1,0 +1,6 @@
+C:\My Stuff\Personal Docs\C# Presentations\PolymorphismDemo\Bank.Library\bin\Debug\Bank.Library.dll
+C:\My Stuff\Personal Docs\C# Presentations\PolymorphismDemo\Bank.Library\bin\Debug\Bank.Library.pdb
+C:\My Stuff\Personal Docs\C# Presentations\PolymorphismDemo\Bank.Library\obj\Debug\Bank.Library.csprojResolveAssemblyReference.cache
+C:\My Stuff\Personal Docs\C# Presentations\PolymorphismDemo\Bank.Library\obj\Debug\Bank.Library.csproj.CoreCompileInputs.cache
+C:\My Stuff\Personal Docs\C# Presentations\PolymorphismDemo\Bank.Library\obj\Debug\Bank.Library.dll
+C:\My Stuff\Personal Docs\C# Presentations\PolymorphismDemo\Bank.Library\obj\Debug\Bank.Library.pdb
