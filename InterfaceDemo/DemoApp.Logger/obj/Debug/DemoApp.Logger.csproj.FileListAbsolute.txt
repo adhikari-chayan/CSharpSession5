@@ -1,0 +1,6 @@
+C:\My Stuff\Personal Docs\C# Presentations\InterfaceDemo\DemoApp.Logger\bin\Debug\DemoApp.Logger.dll
+C:\My Stuff\Personal Docs\C# Presentations\InterfaceDemo\DemoApp.Logger\bin\Debug\DemoApp.Logger.pdb
+C:\My Stuff\Personal Docs\C# Presentations\InterfaceDemo\DemoApp.Logger\obj\Debug\DemoApp.Logger.csprojResolveAssemblyReference.cache
+C:\My Stuff\Personal Docs\C# Presentations\InterfaceDemo\DemoApp.Logger\obj\Debug\DemoApp.Logger.csproj.CoreCompileInputs.cache
+C:\My Stuff\Personal Docs\C# Presentations\InterfaceDemo\DemoApp.Logger\obj\Debug\DemoApp.Logger.dll
+C:\My Stuff\Personal Docs\C# Presentations\InterfaceDemo\DemoApp.Logger\obj\Debug\DemoApp.Logger.pdb
