@@ -1,0 +1,6 @@
+C:\My Stuff\Personal Docs\C# Presentations\ClassDemo\MyLibrary\bin\Debug\MyLibrary.dll
+C:\My Stuff\Personal Docs\C# Presentations\ClassDemo\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\My Stuff\Personal Docs\C# Presentations\ClassDemo\MyLibrary\obj\Debug\MyLibrary.csprojResolveAssemblyReference.cache
+C:\My Stuff\Personal Docs\C# Presentations\ClassDemo\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+C:\My Stuff\Personal Docs\C# Presentations\ClassDemo\MyLibrary\obj\Debug\MyLibrary.dll
+C:\My Stuff\Personal Docs\C# Presentations\ClassDemo\MyLibrary\obj\Debug\MyLibrary.pdb
