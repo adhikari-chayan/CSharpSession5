@@ -15,9 +15,10 @@ namespace Bank.UI
         static void Main(string[] args)
         {
             InitializeAccountsAndCustomers();
+
             Console.Write("\nBanking Options :\n");
             Console.WriteLine();
-            Console.Write("1- Create New Account.\n2- Calculate Interest.\n3- Show All Accounts.\n4- Exit.\n");
+            Console.Write("1- Create New Account.\n2- Calculate Interest.\n3- Show All Accounts.\n4- Do A Deposit.\n5- Exit");
             Console.Write("\nInput your choice :");
             var opt = Convert.ToInt32(Console.ReadLine());
 
@@ -39,6 +40,10 @@ namespace Bank.UI
                     break;
 
                 case 4:
+                    DoADeposit();
+                    break;
+
+                case 5:
                     break;
 
                 default:
@@ -51,6 +56,21 @@ namespace Bank.UI
 
 
             
+        }
+
+        private static void DoADeposit()
+        {
+            string accountNumber;
+            double amountToDeposit;
+            Console.Clear();
+            Console.Write("Enter Account Number: ");
+            accountNumber = Console.ReadLine();
+            Console.Write("Enter amount to deposit: ");
+            amountToDeposit = Convert.ToDouble(Console.ReadLine());
+            var account = _accounts.Where(a => a.AccountNumber == accountNumber).FirstOrDefault();
+            account.Deposit(amountToDeposit);
+            ShowListOfAccounts();
+
         }
 
         private static void CalculateInterest()

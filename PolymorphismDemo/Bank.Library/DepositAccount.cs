@@ -43,5 +43,12 @@ namespace Bank.Library
 
             return result;
         }
+
+        public override double Deposit(double amount)
+        {
+            //If I want to give a 20$ benefit for each deposit
+            amount = amount + 20;
+            return base.Deposit(amount);
+        }
     }
 }
